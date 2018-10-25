@@ -1,0 +1,28 @@
+[21-Oct-2018 14:59:07 UTC] PHP Warning:  Illegal string offset 'perma_link' in /app/public/wp-content/themes/ismakutl/single-event.php on line 12
+[21-Oct-2018 14:59:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/ismakutl/single-event.php on line 13
+[21-Oct-2018 15:01:50 UTC] PHP Warning:  Illegal string offset 'perma_link' in /app/public/wp-content/themes/ismakutl/single-event.php on line 11
+[21-Oct-2018 15:01:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/ismakutl/single-event.php on line 12
+[21-Oct-2018 15:02:38 UTC] PHP Warning:  Illegal string offset 'perma_link' in /app/public/wp-content/themes/ismakutl/single-event.php on line 11
+[21-Oct-2018 15:02:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/ismakutl/single-event.php on line 12
+[21-Oct-2018 15:03:14 UTC] PHP Warning:  Illegal string offset 'perma_link' in /app/public/wp-content/themes/ismakutl/single-event.php on line 11
+[21-Oct-2018 15:03:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/ismakutl/single-event.php on line 12
+[21-Oct-2018 16:01:31 UTC] PHP Warning:  Illegal string offset 'perma_link' in /app/public/wp-content/themes/ismakutl/single-event.php on line 11
+[21-Oct-2018 16:01:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/ismakutl/single-event.php on line 12
+[21-Oct-2018 16:01:51 UTC] PHP Warning:  Illegal string offset 'perma_link' in /app/public/wp-content/themes/ismakutl/single-event.php on line 13
+[21-Oct-2018 16:01:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/ismakutl/single-event.php on line 14
+[21-Oct-2018 16:01:53 UTC] PHP Warning:  Illegal string offset 'perma_link' in /app/public/wp-content/themes/ismakutl/single-event.php on line 13
+[21-Oct-2018 16:01:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/ismakutl/single-event.php on line 14
+[21-Oct-2018 16:02:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/ismakutl/single-event.php on line 14
+[21-Oct-2018 16:03:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/ismakutl/single-event.php on line 14
+[21-Oct-2018 16:03:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/ismakutl/single-event.php on line 14
+[21-Oct-2018 16:03:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/ismakutl/single-event.php on line 14
+[21-Oct-2018 19:27:42 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_post_meta(), 0 passed in /app/public/wp-content/themes/ismakutl/single-recipe.php on line 9 and at least 1 expected in /app/public/wp-includes/post.php:1836
+Stack trace:
+#0 /app/public/wp-content/themes/ismakutl/single-recipe.php(9): get_post_meta()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/post.php on line 1836
+[24-Oct-2018 17:30:36 UTC] PHP Warning:  Use of undefined constant lat - assumed 'lat' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/ismakutl/archive-event.php on line 15
+[24-Oct-2018 17:30:57 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /app/public/wp-content/themes/ismakutl/archive-event.php on line 15
